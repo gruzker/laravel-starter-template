@@ -32,7 +32,7 @@
         <div class="flex flex-col justify-around h-full">
             <div>
                 <h1 class="text-gray-600 text-center font-light tracking-wider text-5xl mb-6">
-                    {{ config('app.name', 'Laravel') }}
+                    Laravel
                 </h1>
                 <ul class="list-reset">
                     <li class="inline pr-8">

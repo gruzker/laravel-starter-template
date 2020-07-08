@@ -2,6 +2,6 @@
 
 it('testing homepage')
     ->get('/')
-    ->assertSee('Market')
+    ->assertSee('Laravel')
     ->assertStatus(200);
 
